@@ -1,2 +1,1 @@
-Detta repo är skapad för lärande syfte för de nya inom Git och länkade områden
-
+Detta repo är skapad för lärande syfte för de nya inom Git och länkade områden.Git är ett digitalt verktyg ämnat för sammarbete, versionshantering och
